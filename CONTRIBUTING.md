@@ -3,7 +3,7 @@
 ## Getting Started
 
 1. Read [ARCHITECTURE.md](ARCHITECTURE.md) - understand core principles
-2. Check [GitHub Issues](issues) for "good first issue" tags
+2. Check [GitHub Issues](https://github.com/ahmadshah2103/cobac/issues) for "good first issue" tags
 3. Join discussions (we're friendly!)
 
 ## Development Setup
