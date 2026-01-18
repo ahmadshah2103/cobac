@@ -72,6 +72,6 @@ MIT License - see [LICENSE](LICENSE)
   author = {Shah, Ahmad},
   title = {CoBAC: Pre-Retrieval Authorization for RAG Systems},
   year = {2026},
-  url = {https://github.com/yourusername/cobac}
+  url = {https://github.com/ahmadshah2103/cobac}
 }
 ```
