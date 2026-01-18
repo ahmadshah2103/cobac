@@ -54,7 +54,7 @@ npm install @cobac/core @cobac/adapter-qdrant
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 **Note:** This project is in active development. Architecture decisions 
-require approval from the Lead Maintainer (see [GOVERNANCE.md](GOVERNANCE.md)).
+require approval from the Lead Maintainer.
 
 ## Research
 
