@@ -59,7 +59,7 @@ require approval from the Lead Maintainer (see [GOVERNANCE.md](GOVERNANCE.md)).
 ## Research
 
 Based on academic research:
-- v1 Paper: [CoBAC: Coordinate-Based Access Control for RAG](link)
+- v1 Paper: [CoBAC: Coordinate-Based Access Control for RAG](https://doi.org/10.5281/zenodo.18130690)
 - v2 Paper: [Coming Soon - Theory to Practice]
 
 ## License
