@@ -8,7 +8,7 @@
 
 ## Development Setup
 ```bash
-git clone https://github.com/yourusername/cobac
+git clone https://github.com/ahmadshah2103/cobac
 cd cobac
 npm install
 npm test
