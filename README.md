@@ -3,7 +3,7 @@
 **Creator:** Ahmad Shah  
 **Status:** Alpha (v0.1.0)  
 **License:** MIT  
-**Research Paper:** [https://doi.org/10.5281/zenodo.18130690](v1)
+**Research Paper:** [v1](https://doi.org/10.5281/zenodo.18130690)
 
 ## What is CoBAC?
 
